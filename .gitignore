@@ -1,0 +1,15 @@
+/node_modules
+/plagiarism
+/dist
+/nbproject/private/
+/.settings
+/.project
+npm-debug*.log
+/generated
+/coverage
+npm-debug.log.*
+debug.log
+error.log
+**/.DS_Store
+src/.DS_Store
+/dummy-code-engine
