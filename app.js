@@ -5,7 +5,7 @@ var app = express.createServer();
 var port = 3000;
 
 app.get('/', function(req, res) {
-	res.send({"msg":"hello world"});
+	res.send({"msg":"hello world 1"});
 });
 
 
